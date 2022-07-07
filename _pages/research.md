@@ -6,6 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
+<br>
+
 ## Galaxy Evolution
 My research broadly focuses on the evolution of low-mass galaxies. Specifically, I study the resolved stellar populations of dwarf galaxies in our cosmic neighborhood, the Local Group, using space-based and large ground-based telescopes.  I employ both stellar and galactic evolution models in order to interpret these observations and constrain the key physical processes that govern galaxy evolution over cosmic time. My work is primarily advised by [Prof. Dan Weisz](http://dweisz.github.io/).
 
