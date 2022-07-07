@@ -7,12 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-[//]: # (
-##Teaching Philosophy
-<Insert brief summary of teaching philosophy> 
-<Insert linkn to statement of teaching philosophy>
-)
-
 ## Teaching Experience
 
 ### UC Berkeley
@@ -36,8 +30,3 @@ author_profile: true
   * Workshop - Creating Inclusive Classrooms: Microaggressions and the Learning Environment
 * UC Berkeley: Instructional Techniques for First-Time GSIs (Astronomy Dept; Fall 2017)
 * Pomona College: STEM Mentor Workshop series (Quantitative Skills Center; Spring 2017)
-
-[//]: # (
-##Course Ideas / Teaching Materials
-<Repository for future course ideas> 
-)
