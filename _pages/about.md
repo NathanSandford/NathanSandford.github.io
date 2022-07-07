@@ -1,11 +1,7 @@
 ---
-permalink: /
 title: "About Me"
-excerpt: "About Me"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a sixth- and final-year graduate student in Prof. Dan Weisz's group in the UC Berkeley Department of Astronomy. I study the evolution of Local Group dwarf galaxies using a combination of photometric and spectroscopic data, galactic chemical enrichment models, and stellar atmosphere and evolution models. 
