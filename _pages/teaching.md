@@ -8,17 +8,17 @@ author_profile: true
 {% include base_path %}
 
 Teaching Experience
-======
+========================
 
 UC Berkeley
-=====
+------------------------
 * Co-Instructor: Instruction Techniques in General Astronomy (ASTRON 375; Fall 2020, Spring 2022)
 * Head GSI: Introduction to General Astronomy (ASTRON C10; Fall 2018)
 * GSI: The Planets (ASTRON C12; Spring 2018)
 * GSI: Introduction to General Astronomy (ASTRON C10; Fall 2017)
 
 Pomona College
-=====
+------------------------
 * Mentor: Electricity and Magnetism (PHYS 142; Spring 2017)
 * Lab TA: Techniques in Observational Astrophysics (ASTR 101; Spring 2015/2016)
 * Mentor: Introduction to Galaxies and Cosmology (ASTR 002; Spring 2016)
@@ -26,7 +26,7 @@ Pomona College
 * Lab TA: Advanced Introductory Astronomy (ASTR 051; Spring 2015)
 
 Professional Development
-======
+========================
 * UC Berkeley: Certificate in Teaching and Learning in Higher Education (In Progress)
 * UC Berkeley: Instructional Techniques for First-Time GSIs (Astronomy Dept; Fall 2017)
 * Pomona College: STEM Mentor Workshop series (Quantitative Skills Center; Spring 2017)
