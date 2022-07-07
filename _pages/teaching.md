@@ -6,6 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
+<br>
+
 ## Teaching Experience
 
 ### UC Berkeley
@@ -20,6 +22,8 @@ author_profile: true
 * **Mentor:** Introduction to Galaxies and Cosmology (ASTR 002; Spring 2016)
 * **Mentor:** Foundations of Modern Physics (PHYS 101; Fall 2015)
 * **Lab TA:** Advanced Introductory Astronomy (ASTR 051; Spring 2015)
+
+<br>
 
 ## Professional Development
 * UC Berkeley: [Certificate in Teaching and Learning in Higher Education](https://gsi.berkeley.edu/programs-services/certificate-program/) (In Progress)
