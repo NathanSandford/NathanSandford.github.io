@@ -47,20 +47,23 @@ Through the [Science Undergraduate Laboratory Internship](https://science.energy
 <br>
 
 ## Publications
-Below is a list of my peer-reviewed publications; a complete list of publications can be found on [ADS](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FSandford%2C%20N%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FSandford%2C%20N%22)&q=author%3A%22Sandford%2C%20Nathan%20R.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+Below is a list of my peer-reviewed publications; a complete list of publications can be found on [ADS](https://ui.adsabs.harvard.edu/public-libraries/Kw0IglJVRu2L8dN0PCLJ2w).
 
-* Gull, M., Weisz, D., Senchyna, P., **Sandford, N.**, et al., In Prep, <br>
-*A Panchromatic Study of Massive Stars in Extremely Metal-Poor Local Group Dwarf Galaxy Leo A*
+
+* **Sandford, N.**, Weinberg, D. & Weisz, D., In Prep, <br>
+*The Chemical Evolution of Ultra Faint Dwarf Galaxy Eridanus I*
 * **Sandford, N.**, Weisz, D. & Ting, Y.-S., In Prep, <br>
 *Validating Stellar Abundance Measurements from Multi-Resolution Spectroscopy*
-* Fu, S. et al (including **Sandford, N.**), 2022, ApJ, 925, 6. <br> 
+* Gull, M., Weisz, D., Senchyna, P., **Sandford, N.**, et al., Submitted to ApJS, <br>
+*A Panchromatic Study of Massive Stars in Extremely Metal-Poor Local Group Dwarf Galaxy Leo A*
+* Fu, S. et al (including **Sandford, N.**), 2022, [ApJ, 925, 6.](https://ui.adsabs.harvard.edu/abs/2022ApJ...925....6F/abstract) <br> 
 *Metallicity Distribution Function of the Eridanus II Ultra-Faint Dwarf Galaxy from Hubble Space
 Telescope Narrow-band Imaging*
-* Bundy, K. et al (including **Sandford, N.**), 2020, SPIE, 11447. <br> 
+* Bundy, K. et al (including **Sandford, N.**), 2020, [SPIE, 11447.](https://ui.adsabs.harvard.edu/abs/2020SPIE11447E..1DB/abstract) <br> 
 *The Keck-FOBOS spectroscopic facility: conceptual design*
-* **Sandford, N.**, Weisz, D. & Ting, Y.-S., 2020, ApJS, 249, 24. <br> 
+* **Sandford, N.**, Weisz, D. & Ting, Y.-S., 2020, [ApJS, 249, 24.](https://ui.adsabs.harvard.edu/abs/2020ApJS..249...24S/abstract) <br> 
 *Forecasting Chemical Abundance Precision for Extragalactic Stellar Archaeology*
-* Xiang, M., Ting, Y.-S., Rix, H.W., **Sandford, N.**, et al., 2019, ApJS, 245, 34. <br> 
+* Xiang, M., Ting, Y.-S., Rix, H.W., **Sandford, N.**, et al., 2019, [ApJS, 245, 34.](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...34X/abstract) <br> 
 *Abundance Estimates for 16 Elements in 6 Million Stars from LAMOST DR5 Low-Resolution Spectra*
 
 <br>
