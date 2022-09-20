@@ -51,7 +51,7 @@ Below is a list of my peer-reviewed publications; a complete list of publication
 
 
 * **Sandford, N.**, Weinberg, D. & Weisz, D., In Prep, <br>
-*The Chemical Evolution of Ultra Faint Dwarf Galaxy Eridanus I*
+*The Chemical Evolution of Ultra Faint Dwarf Galaxy Eridanus II*
 * **Sandford, N.**, Weisz, D. & Ting, Y.-S., In Prep, <br>
 *Validating Stellar Abundance Measurements from Multi-Resolution Spectroscopy*
 * Gull, M., Weisz, D., Senchyna, P., **Sandford, N.**, et al., Submitted to ApJS, <br>
