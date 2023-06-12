@@ -26,7 +26,7 @@ author_profile: true
 <br>
 
 ## Professional Development
-* UC Berkeley: [Certificate in Teaching and Learning in Higher Education](https://gsi.berkeley.edu/programs-services/certificate-program/) (In Progress)
+* UC Berkeley: [Certificate in Teaching and Learning in Higher Education](https://gsi.berkeley.edu/programs-services/certificate-program/) (Submitted)
   * Workshop - How Students Learn
   * Workshop - Syllabus and Course Design
   * Workshop - Creating and Using Grading Rubrics
