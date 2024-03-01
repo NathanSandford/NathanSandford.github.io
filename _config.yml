@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nathan Sandford"
 title_separator          : "-"
 name                     : &name "Nathan Sandford"
-description              : &description "Astronomy PhD Student at UC Berkeley"
+description              : &description "Astronomy Postdoctoral Fellow at the University of Toronto"
 url                      : https://NathanSandford.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NathanSandford/NathanSandford.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nathan Sandford"
   avatar           : "Nathan_Spring2021.jpg"
-  bio              : "Astronomy PhD Student at UC Berkeley"
-  location         : "Berkley, CA"
+  bio              : "stronomy Postdoctoral Fellow at the University of Toronto"
+  location         : "Toronto, ON"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=SJawm6kAAAAJ&hl=en"
-  email            : "nathan_sandford@berkley.edu"
+  email            : "nathan.sandford@utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
